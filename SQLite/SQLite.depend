@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1385316878 source:f:\cworkspace\sqlite\main.cpp
+	<iostream>
+
+1448972407 source:f:\cworkspace\sqlite\shell.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	"sqlite3.h"
+	<ctype.h>
+	<stdarg.h>
+	<signal.h>
+	<pwd.h>
+	<unistd.h>
+	<sys/types.h>
+	<editline/editline.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<io.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<windows.h>
+
+1448972407 f:\cworkspace\sqlite\sqlite3.h
+	<stdarg.h>
+
